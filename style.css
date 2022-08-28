@@ -1,0 +1,42 @@
+
+
+:root{
+    --primary-color:white;
+}
+
+body{
+    background-color:green ;
+    color: var(--primary-color);
+    font-family: ;
+}
+
+h1{
+    text-align: center;
+}
+
+.container{
+    width: 50%;
+    margin: auto;
+}
+
+input,
+label{
+    display: block;
+}
+
+input{
+    margin-bottom: 0.5rem;
+    width: 100%;
+}
+
+#check-number{
+    display: block;
+    margin-top: 1rem;
+    margin: auto;
+    background-color: ;
+    color: var();
+    border-color: var();
+    border-width: medium;
+    padding: 00.5rem;
+    border-radius: 0.3rem;
+}
